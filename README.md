@@ -1,3 +1,5 @@
-# alx-pre_course
-git add . 
-git commit -m 'my first commit'
+$ git clone <repo>
+$ touch test
+$ git add test
+$ git commit -m "Initial commit"
+$ git push origin main
